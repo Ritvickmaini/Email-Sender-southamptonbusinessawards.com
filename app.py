@@ -76,8 +76,8 @@ def generate_email_html(
                 <p style="margin-top:25px;font-weight:bold">
                   Regards<br/>
                   Customer Success Team<br/>
-                  Southampton Business Awards</br>
-                  29th Jan 2026 | Southampton Business Expo<br/>
+                  Future Tech Business Show</br>
+                  3–4 March 2026 | London Olympia<br/>
                   <br/>
                   On Behalf of<br/>
                   Roger<br/>
